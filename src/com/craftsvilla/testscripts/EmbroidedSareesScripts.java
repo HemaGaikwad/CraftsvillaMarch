@@ -38,7 +38,6 @@ public class EmbroidedSareesScripts extends BaseTest
 			ep.goToProduct1538760092();
 			pd.checkProductName("Craftsvilla Blue Color Silk Designer Resham Embroidery Saree");
 			pd.clickOnBuyNow();
-			Assert.fail();
 			cp.setFirstName("Hema");
 			cp.setEmail("emailid");
 			cp.setMobile("88676574654");
